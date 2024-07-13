@@ -114,5 +114,3 @@ class Graph:
         vect = Vector(x_comp, y_comp)
         self.appendVect(vect)
         return self.showVect(vect)
-
-
